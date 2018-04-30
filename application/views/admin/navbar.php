@@ -1,0 +1,1 @@
+<a class="navbar-brand" href="<?php echo base_url('Home'); ?>">Admin</a>
